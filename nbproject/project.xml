@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>JavaApplication35</name>
+=======
+            <name>JavaApplication31</name>
+>>>>>>> 943c062460a9b9b9c035b773a3554537fe5f69ce
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
